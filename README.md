@@ -141,4 +141,5 @@ npm test
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails. 
+-Trouver les stations à proximité
+-URL : http://localhost:5000/api/stations/nearby?longitude=2.3522&latitude=48.8566&maxDistance=5000
